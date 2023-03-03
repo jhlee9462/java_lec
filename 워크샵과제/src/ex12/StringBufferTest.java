@@ -6,7 +6,7 @@ public class StringBufferTest {
 		StringBuffer sb = new StringBuffer("LGCNS");
 		String str = null;
 		
-		str = sb.replace(2, 5, "cnser").toString();
+		str = sb.replace(2, 5, "cns").append("er").toString();
 		System.out.println(str);
 	}
 	
