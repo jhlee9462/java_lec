@@ -1,0 +1,9 @@
+package ex12;
+
+public class ConvertString {
+
+	public String convert(int money) {
+		
+	}
+	
+}

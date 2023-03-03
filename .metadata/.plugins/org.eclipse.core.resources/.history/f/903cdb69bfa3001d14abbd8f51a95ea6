@@ -1,0 +1,17 @@
+package ex13;
+
+import java.util.ArrayList;
+
+public class ListTest01 {
+
+	public static void main(String[] args) {
+
+		int num = Integer.parseInt(args[0]);
+		MakeList ml = new MakeList();
+		ml.makeArray(num);
+		
+		ArrayList<Integer> list = null;
+		
+	}
+
+}

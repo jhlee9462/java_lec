@@ -1,0 +1,13 @@
+package ex12;
+
+public class StringTest02 {
+
+	public static void main(String[] args) {
+
+		ConvertString cs = new ConvertString();
+		
+		System.out.println(cs.convert(3652792));
+		
+	}
+
+}

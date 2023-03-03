@@ -1,0 +1,25 @@
+package ex12;
+
+import java.util.Date;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
+public class ConvertDate {
+
+	public String convert(Date date, int type) {
+		
+		Calendar cd = Calendar.getInstance();
+		cd.setTime(date);
+		SimpleDateFormat formatter = null;
+		
+		switch (type) {
+		case 1:
+			formatter = new SimpleDateFormat("YYYY-MM-DD");
+		case 2:
+		case 3:
+		}
+		
+		return "";
+	}
+	
+}

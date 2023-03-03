@@ -1,0 +1,12 @@
+package ex12;
+
+import java.text.DecimalFormat;
+
+public class ConvertString {
+
+	public String convert(int money) {
+		DecimalFormat df = new DecimalFormat("999,999원");
+		return df.format(money);
+	}
+	
+}

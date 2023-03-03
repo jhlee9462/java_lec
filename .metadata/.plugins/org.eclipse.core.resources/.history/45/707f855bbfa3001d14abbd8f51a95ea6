@@ -1,0 +1,11 @@
+package ex13;
+
+public class ListTest01 {
+
+	public static void main(String[] args) {
+
+		int num = Integer.parseInt(args[0]);
+		MakeList ml = new MakeList();
+	}
+
+}

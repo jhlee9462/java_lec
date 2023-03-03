@@ -1,0 +1,13 @@
+package ex13;
+
+public class Boat extends Ship {
+
+	@Override
+	public void sail(int dist) {
+	}
+
+	@Override
+	public void refuel(int fuel) {
+	}
+
+}

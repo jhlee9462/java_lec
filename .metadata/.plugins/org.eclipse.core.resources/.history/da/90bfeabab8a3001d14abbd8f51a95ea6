@@ -1,0 +1,23 @@
+package ex12;
+
+import java.sql.Date;
+import java.util.Calendar;
+
+public class ConvertDate {
+
+	public String convert(Date date, int type) {
+		
+		Calendar cd = Calendar.getInstance();
+		cd.setTime(date);
+		
+		switch (type) {
+		case 1:
+			return cd.get(Calendar.YEAR) + "-" + cd.get(Calendar.MONTH) + "-" + cd.get(Calendar.DATE);
+		case 2:
+		case 3:
+		}
+		
+		return "";
+	}
+	
+}

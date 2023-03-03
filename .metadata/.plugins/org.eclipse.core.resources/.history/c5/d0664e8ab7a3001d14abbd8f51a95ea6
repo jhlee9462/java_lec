@@ -1,0 +1,18 @@
+package ex12;
+
+import java.sql.Date;
+
+public class ConvertDate {
+
+	public String convert(Date date, int type) {
+		switch (type) {
+		case 1:
+			
+		case 2:
+		case 3:
+		}
+		
+		return "";
+	}
+	
+}

@@ -1,0 +1,26 @@
+package ex12;
+
+import java.util.Date;
+import java.util.Calendar;
+
+public class ConvertDate {
+
+	public String convert(Date date, int type) {
+		
+		Calendar cd = Calendar.getInstance();
+		cd.setTime(date);
+		
+		switch (type) {
+		case 1:
+			return cd.get(Calendar.YEAR) + "-" + cd.get(Calendar.MONTH) + "-" + cd.get(Calendar.DATE);
+		case 2:
+			return (cd.get(Calendar.YEAR) % 100) + "년 " + cd.get(Calendar.MONTH) + "월 " + cd.get(Calendar.DATE) + "일 " + cd.get(Calendar.DAY_OF_WEEK); 
+		case 3:
+			return cd.get(Calendar.YEAR) + "-" + cd.get(Calendar.MONTH) + "-" + cd.get(Calendar.DATE) + " " + cd.get(Calendar.HOUR) + ":" + cd.get(Calendar.MINUTE)
+				+ ":" + cd.get(Calendar.SECOND) + " " + cd.get(Calendar.AM_PM);
+		}
+		
+		return "";
+	}
+	
+}

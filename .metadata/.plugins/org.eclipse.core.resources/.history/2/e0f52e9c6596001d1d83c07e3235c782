@@ -1,0 +1,9 @@
+package ex7;
+
+public class Cargoplane extends Plane {
+
+	@Override
+	public void flight(int distance) {
+	}
+
+}

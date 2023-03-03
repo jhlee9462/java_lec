@@ -1,0 +1,21 @@
+package ex13;
+
+public class Mobile {
+
+	private String code, name;
+	private double price;
+	
+	public Mobile() {
+	}
+
+	public Mobile(String code, String name, double price) {
+		super();
+		this.code = code;
+		this.name = name;
+		this.price = price;
+	}
+	
+	public String printInfo() {
+		return "";
+	}
+}

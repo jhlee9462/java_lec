@@ -1,0 +1,18 @@
+package ex13;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapTest {
+
+	public static void main(String[] args) {
+
+		Map<String, Mobile> map = new HashMap<>();
+		double sum = 0.0;
+		
+		Mobile m1 = new Mobile("LU6800", "Optimus 2X", 800000);
+		Mobile m2 = new Mobile("SU6600", "Optimus Black", 900000);
+		Mobile m3 = new Mobile("KU5700", "Optimus Big", 700000);
+	}
+
+}

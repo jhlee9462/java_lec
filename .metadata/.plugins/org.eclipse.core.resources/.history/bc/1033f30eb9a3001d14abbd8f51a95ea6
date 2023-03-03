@@ -1,0 +1,9 @@
+package ex12;
+
+public class DateTest {
+
+	public static void main(String[] args) {
+
+	}
+
+}

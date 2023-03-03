@@ -1,0 +1,28 @@
+package ex12;
+
+import java.util.Date;
+import java.util.Locale;
+import java.text.SimpleDateFormat;
+
+public class ConvertDate {
+
+	public String convert(Date date, int type) {
+		
+		SimpleDateFormat formatter = null;
+		
+		switch (type) {
+		case 1:
+			formatter = new SimpleDateFormat("YYYY-MM-DD");
+			break;
+		case 2:
+			formatter = new SimpleDateFormat("YY년 M월 D일 E요일", Locale.KOREAN);
+			break;
+		case 3:
+			formatter = new SimpleDateFormat("YYYY-MM-DD HH:mm:ss a", Locale.KOREAN);
+			break;
+		}
+		
+		return formatter.format(date);
+	}
+	
+}
