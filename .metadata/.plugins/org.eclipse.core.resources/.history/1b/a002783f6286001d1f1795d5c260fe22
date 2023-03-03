@@ -1,0 +1,28 @@
+package step02_연산자;
+
+public class OperatorEx {
+
+	public static void main(String[] args) {
+
+		// 산술연산자
+		System.out.println(5 % 3); // 나머지 연산
+		System.out.println(5 / 3);
+		
+		// 관계연산자
+		int a = 5;
+		System.out.println(a == 5); // a 는 5 와 같은가? true
+		System.out.println(a >= 5); // a 는 5 와 크거나 같은가? true
+		System.out.println(a != 5); // a 는 5 와 같지 않은가? false
+		
+		// 논리연산자 and, or, not
+		String str = "hello";
+		System.out.println(str == "hello" || str == "Hello"); // true
+		
+		int score = 57;
+		System.out.println(score >= 70 && score < 90); // false
+		
+		boolean ck = true;
+		System.out.println(!ck); // ! 논리 부정
+	}
+
+}

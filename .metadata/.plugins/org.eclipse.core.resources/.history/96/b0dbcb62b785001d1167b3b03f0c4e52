@@ -1,0 +1,27 @@
+package step01_기초;
+
+/* 문제, 4 개의 변수를 만들어서 다음과 같이 완성하세요
+ *			  (이름, 국어, 영어, 수학) 
+ * 이름 : 둘리
+ * 국어 : 95
+ * 영어 : 85
+ * 수학 : 73
+ * 총점 : 253점
+ * 
+ */
+public class Test2 {
+
+	public static void main(String[] args) {
+		String name = "둘리";
+		int korean = 95;
+		int english = 85;
+		int math = 73;
+		
+		System.out.println("이름 : " + name);
+		System.out.println("국어 : " + korean);
+		System.out.println("영어 : " + english);
+		System.out.println("수학 : " + math);
+		System.out.println("총점 : " + (korean + english + math) + "점");
+	}
+
+}

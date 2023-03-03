@@ -1,0 +1,26 @@
+package step02_연산자;
+
+// 코드 정렬 Ctrl + Shift + f
+
+/*	. 의 의미
+ *  1. 입력 : 어떤 함수의 실행 결과가 다름 함수의 입력으로 사용되는 경우
+ *  2. 포함 : 클래스 또는 객체가 가지고 있는 함수
+ */
+
+public class ParseInt {
+
+	public static void main(String[] args) {
+		String a = "100"; // 문자열 100
+		String b = "200";
+
+		int a1 = Integer.parseInt(a); // "100" --> 100 으로 변환
+		int b1 = Integer.parseInt(b);
+
+		System.out.println(a + b); // "100" 과 "200" 을 연결하기
+		System.out.println(a1 + b1); // 100 과 200 을 더함
+
+		Float.parseFloat(b); // "200" --> 200.0
+		Double.parseDouble(b); // "200" --> 200.0
+	}
+
+}

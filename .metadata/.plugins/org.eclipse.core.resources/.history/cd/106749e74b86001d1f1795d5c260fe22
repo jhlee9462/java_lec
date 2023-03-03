@@ -1,0 +1,12 @@
+package step02_연산자;
+
+public class InputTest1 {
+
+	public static void main(String[] args) {
+		java.io.InputStreamReader isr = new java.io.InputStreamReader(System.in);
+		java.io.BufferedReader br = new java.io.BufferedReader(isr);
+		
+		System.out.println("이름을 입력하세요 : ");
+	}
+
+}

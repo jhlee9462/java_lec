@@ -1,0 +1,14 @@
+package step02_연산자;
+
+public class OperatorEx {
+
+	public static void main(String[] args) {
+
+		// 관계연산자
+		int a = 5;
+		System.out.println(a == 5);
+		
+		// 논리연산자 and, or, not
+	}
+
+}

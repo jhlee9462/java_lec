@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;step16_network&apos;&#x0D;&#x0A;- Original project: &apos;step16_network&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     chat.GUIChatClient.java&#x0D;&#x0A;     chat.GUIChatServer.java&#x0D;&#x0A;     readme.txt" description="Delete elements" element1="src/chat/readme.txt" element2="/src&lt;chat{GUIChatClient.java" element3="/src&lt;chat{GUIChatServer.java" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1675149206828" subPackages="false" version="1.0"/>
+</session>

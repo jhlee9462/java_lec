@@ -1,0 +1,9 @@
+package step02_연산자;
+
+public class InputTest1 {
+
+	public static void main(String[] args) {
+		java.io.InputStreamReader isr = new java.io.InputStreamReader(System.in);
+	}
+
+}

@@ -1,0 +1,16 @@
+package step01_기초;
+
+public class DataType2 {
+
+	public static void main(String[] args) {
+		String name = "이순신";
+		String dept = "개발부";
+		
+//		System.out.println("이름 : " + name);
+//		System.out.println("부서 : " + dept); 표현방식 1
+		
+		System.out.printf("이름 : %s\n", name);
+		System.out.printf("부서 : %s\n", dept);
+	}
+
+}

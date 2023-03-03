@@ -1,0 +1,13 @@
+package step02_연산자;
+
+// 코드 정렬 Ctrl + Shift + f
+public class ParseInt {
+
+	public static void main(String[] args) {
+		String a = "100";	//	문자열 100
+		String b = "200";
+		
+		System.out.println(a + b);
+	}
+
+}

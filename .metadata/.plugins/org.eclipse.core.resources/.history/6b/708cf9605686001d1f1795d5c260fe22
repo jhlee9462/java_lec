@@ -1,0 +1,13 @@
+package step02_연산자;
+/* ASCII(7 bit) 미국 정보 교환용 표준 코드 (0 ~ 127 까지의 값에 문자를 매핑)
+ * A 65 -- 1000001
+ * a 97
+ */
+public class AsciiCode {
+
+	public static void main(String[] args) {
+		
+		System.out.println('A' + " : " + A);
+	}
+
+}

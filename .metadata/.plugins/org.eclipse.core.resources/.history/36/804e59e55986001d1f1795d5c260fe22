@@ -1,0 +1,18 @@
+package step02_연산자;
+
+// casting : 자료형의 변환
+
+public class CastingEx {
+
+	public static void main(String[] args) {
+		byte a = 100;
+		int b = a; // 자동 형변환
+
+		double c = 73.45;
+		int d = (int) c;
+		
+		System.out.println(a + " " + b);
+		System.out.println(c + " " + d);
+	}
+
+}

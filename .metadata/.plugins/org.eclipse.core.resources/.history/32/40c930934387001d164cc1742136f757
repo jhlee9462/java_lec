@@ -1,0 +1,26 @@
+package whileex;
+
+// while (조건식) {실행문}
+
+public class WhileEx1 {
+
+	public static void main(String[] args) {
+		
+		byte a = 127;
+		a++;
+		System.out.println(a);
+		
+		
+//		int n = 0;
+//		
+//		while (true) {
+//			++n;
+//			if (n <= 5)
+//				System.out.println("hello java");
+//			else
+//				break;
+//		}
+		
+	}
+
+}

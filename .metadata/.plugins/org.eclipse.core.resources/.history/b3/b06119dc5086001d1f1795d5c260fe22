@@ -1,0 +1,9 @@
+package step02_연산자;
+
+public class InputTest2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
