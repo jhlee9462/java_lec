@@ -1,0 +1,9 @@
+package ex12;
+
+public class ConvertString {
+
+	public String convert(int money) {
+		String str = String.format("999,999원", money);
+	}
+	
+}

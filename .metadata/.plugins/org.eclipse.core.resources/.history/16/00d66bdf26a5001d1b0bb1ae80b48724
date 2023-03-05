@@ -1,0 +1,19 @@
+package ex13;
+
+public abstract class Shape {
+
+	protected Point point;
+	
+	public Shape() {
+	}
+	
+	public Shape(Point point) {
+		this.point = point;
+	}
+	
+	public abstract double getArea() {
+		return 0.0;
+	}
+	
+	public abstract double getCircumference();
+}

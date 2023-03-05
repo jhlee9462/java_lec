@@ -1,0 +1,9 @@
+package ex12;
+
+public class StringTokenTest {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package ex12;
+
+public class SetTest {
+
+	public static void main(String[] args) {
+		
+		String str = args[0];
+	}
+
+}

@@ -1,0 +1,13 @@
+package ex7;
+
+public class Airplane extends Plane {
+
+	public Airplane() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Override
+	public void flight(int distance) {
+	}
+
+}

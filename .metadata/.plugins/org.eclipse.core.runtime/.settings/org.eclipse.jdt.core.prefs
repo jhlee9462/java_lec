@@ -1,7 +1,12 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/
+<<<<<<< HEAD
 org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk1.8.0_361/jre/lib/rt.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk1.8.0_361/src.zip
+=======
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933/jre/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933/jre/lib/src.zip
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/plugins/org.junit_4.13.2.v20211018-1956.jar
 org.eclipse.jdt.core.classpathVariable.M2_REPO=/home/jinho/.m2/repository

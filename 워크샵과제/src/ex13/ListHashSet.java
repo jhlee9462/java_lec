@@ -1,0 +1,29 @@
+package ex13;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+
+public class ListHashSet {
+
+	public static void main(String[] args) {
+
+		int size = Integer.parseInt(args[0]);
+		ArrayList<Integer> list = new ArrayList<>();
+		HashSet<Integer> set = new HashSet<>();
+		
+		for (int i = 0; i < size; i++) {
+			list.add((int) (Math.random() * 10 + 1));
+		}
+		for (int i : list) {
+			set.add(i);
+		}
+		
+		for (int i : list) {
+			System.out.print(i + " ");
+		}
+		System.out.println();
+		
+		System.out.println(set);
+	}
+
+}

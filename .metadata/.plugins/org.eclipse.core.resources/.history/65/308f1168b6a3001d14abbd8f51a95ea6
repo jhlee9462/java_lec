@@ -1,0 +1,26 @@
+package ex12;
+
+import java.util.StringTokenizer;
+
+public class StringTest01 {
+
+	public static void main(String[] args) {
+
+		String str = "I am second to none";
+		StringTokenizer st = new StringTokenizer(str);
+		int word = 0;
+		int cha = 0;
+		
+		while (st.hasMoreTokens()) {
+			System.out.print(st.nextToken() + " ");
+			word++;
+		}
+		
+		for (int i = 0; i < str.length(); i++) {
+			if (str.charAt(i) == ' ')
+				continue;
+			cha++;
+		}
+	}
+
+}

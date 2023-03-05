@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<<<<<<< HEAD
     <libraryInfo home="C:\java\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre" version="17.0.5"/>
     <libraryInfo home="/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933/jre" version="17.0.5"/>
     <libraryInfo home="C:\java\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
@@ -21,5 +22,8 @@
             <entry path="C:\Program Files\Java\jdk1.8.0_361\jre\lib\endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+=======
+    <libraryInfo home="/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933/jre" version="17.0.5"/>
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
     <libraryInfo home="/home/jinho/eclipse-jee-2022-12-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
 </libraryInfos>

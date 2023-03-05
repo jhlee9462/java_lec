@@ -1,0 +1,12 @@
+package ex13;
+
+import java.util.ArrayList;
+
+public class ShipTest {
+
+	public static void main(String[] args) {
+
+		ArrayList<Ship> list = new ArrayList<>();
+	}
+
+}

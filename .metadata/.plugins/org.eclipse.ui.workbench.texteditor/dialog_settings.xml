@@ -6,18 +6,30 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+<<<<<<< HEAD
 		<item key="selection" value="CASE"/>
 		<list key="findhistory">
 			<item value="case"/>
+=======
+		<list key="findhistory">
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+<<<<<<< HEAD
 		<item key="DIALOG_X_ORIGIN" value="648"/>
 		<item key="DIALOG_Y_ORIGIN" value="268"/>
 		<item key="DIALOG_WIDTH" value="322"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+=======
+		<item key="DIALOG_X_ORIGIN" value="283"/>
+		<item key="DIALOG_Y_ORIGIN" value="236"/>
+		<item key="DIALOG_WIDTH" value="357"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
 	</section>
 </section>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="org.eclipse.ui.preferences.keysPreferencePage">
 		<item key="actionSetFilter" value="true"/>
 		<item key="internalFilter" value="true"/>
@@ -12,6 +13,8 @@
 		<item key="DIALOG_HEIGHT" value="740"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
+=======
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
 	<section name="ImportExportAction">
 		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
@@ -19,8 +22,13 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
+<<<<<<< HEAD
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="450"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="506"/>
+=======
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="525"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="574"/>
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">

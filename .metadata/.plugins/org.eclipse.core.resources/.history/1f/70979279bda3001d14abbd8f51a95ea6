@@ -1,0 +1,22 @@
+package ex13;
+
+import java.util.ArrayList;
+
+public class MakeList {
+
+	public MakeList() {
+	}
+	
+	public void makeArray(int size) {
+		
+	}
+	
+	public double getAverage() {
+		
+	}
+	
+	public ArrayList<Integer> getList() {
+		
+	}
+	
+}

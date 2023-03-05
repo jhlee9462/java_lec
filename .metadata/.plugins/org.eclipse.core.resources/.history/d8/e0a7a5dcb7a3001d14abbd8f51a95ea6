@@ -1,0 +1,21 @@
+package ex12;
+
+import java.sql.Date;
+import java.util.Calendar;
+
+public class ConvertDate {
+
+	public String convert(Date date, int type) {
+		
+		Calendar cd = (Calendar) date;
+		
+		switch (type) {
+		case 1:
+		case 2:
+		case 3:
+		}
+		
+		return "";
+	}
+	
+}

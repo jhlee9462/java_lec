@@ -1,0 +1,17 @@
+package ex13;
+
+public class Circle extends Shape {
+
+	private int radius;
+	
+	@Override
+	public double getArea() {
+		return 0;
+	}
+
+	@Override
+	public double getCircumference() {
+		return 0;
+	}
+
+}

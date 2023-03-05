@@ -2,7 +2,11 @@
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <booleanAttribute key="org.eclipse.debug.core.ATTR_FORCE_SYSTEM_CONSOLE_ENCODING" value="false"/>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<<<<<<< HEAD
         <listEntry value="/워크샵과제/src/ex6/Test03.java"/>
+=======
+        <listEntry value="/워크샵과제/src/ex4/Test03.java"/>
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
@@ -11,8 +15,13 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+<<<<<<< HEAD
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ex6.Test03"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="워크샵과제"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="${string_prompt}"/>
+=======
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ex4.Test03"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="워크샵과제"/>
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="워크샵과제"/>
 </launchConfiguration>

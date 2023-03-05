@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
+<<<<<<< HEAD
     <typeInfo handle="=교재예제/src&lt;chapter8{Soundable.java[Soundable" modifiers="513" timestamp="1672884302648"/>
     <typeInfo handle="=교재예제/src&lt;chapter8{DataAccessObject.java[DataAccessObject" modifiers="513" timestamp="1672884737042"/>
     <typeInfo handle="=step09_스태틱/src&lt;shape{Shape.java[Shape" modifiers="1" timestamp="1672982559932"/>
@@ -17,4 +18,15 @@
     <typeInfo handle="=과제/src&lt;자바과제13{Shape.java[Shape" modifiers="513" timestamp="1674778178582"/>
     <typeInfo handle="=워크샵과제/src&lt;ex8{Car.java[Car" modifiers="1025" timestamp="1674000467084"/>
     <typeInfo handle="=워크샵과제/src&lt;ex11{Car.java[Car" modifiers="1" timestamp="1675411958311"/>
+=======
+    <typeInfo handle="=과제/src&lt;자바과제9{Salary.java[Salary" modifiers="1" timestamp="1673441704579"/>
+    <typeInfo handle="=과제/src&lt;자바과제9{Calculate.java[Calculate" modifiers="513" timestamp="1673439287680"/>
+    <typeInfo handle="=과제/src&lt;자바과제9{Output.java[Output" modifiers="513" timestamp="1673439303292"/>
+    <typeInfo handle="=step13_thread/\/home\/jinho\/eclipse-jee-2022-12-R-linux-gtk-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1667381888000"/>
+    <typeInfo handle="=워크샵과제/src&lt;ex7{Employee.java[Employee" modifiers="1025" timestamp="1673961238921"/>
+    <typeInfo handle="=워크샵과제/src&lt;ex7{Bonus.java[Bonus" modifiers="513" timestamp="1673962195633"/>
+    <typeInfo handle="=워크샵과제/src&lt;ex13{Ship.java[Ship" modifiers="1025" timestamp="1675578304050"/>
+    <typeInfo handle="=워크샵과제/src&lt;ex13{Shape.java[Shape" modifiers="1025" timestamp="1675582200226"/>
+    <typeInfo handle="=워크샵과제/src&lt;ex13{Movable.java[Movable" modifiers="513" timestamp="1675582320744"/>
+>>>>>>> 846091b4b04c2d6f32daa08e2436baa4fcf7530a
 </typeInfoHistroy>
